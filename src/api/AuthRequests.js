@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const instance = axios.create({
-    baseURL: 'https://precious-glasses-lamb.cyclic.app/'
+    baseURL: 'https://crazy-bull-garment.cyclic.app/'
   });
 
 export const login=(formData)=>instance.post('/signin',formData)
