@@ -7,4 +7,4 @@ export const AuthForm = styled.div`
     padding-bottom: 20px;
     border-radius: 8px;
     background-color: white;
-`
+`  
